@@ -1,9 +1,7 @@
 # Curl Options Reference Table
 
-Click the link below to open curl option reference table. Note link will opens in current tab. <br>
-[Open curl Option Table](https://jhauga.github.io/htmlpreview.github.com/?https://github.com/isocialPractice/ref-curlOptions/blob/main/index.html)
+**NOTE** - the options listed are from version **8.1.2**.
 
-Or copy and paste link below into browser. <br>
-```
-https://jhauga.github.io/htmlpreview.github.com/?https://github.com/isocialPractice/ref-curlOptions/blob/main/index.html
-```
+Click the link below to open curl option reference table. Note link will opens in current tab. <br>
+_Ctrl + click_ - [Open curl Option Table](https://jhauga.github.io/htmlpreview.github.com/?https://github.com/isocialPractice/ref-curlOptions/blob/main/index.html)
+
